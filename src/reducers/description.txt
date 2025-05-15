@@ -1,0 +1,3 @@
+✅ Global reducers (if any)
+
+Optional: used if some reducers are shared across features or used by global contexts.

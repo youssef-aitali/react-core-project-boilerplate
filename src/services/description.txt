@@ -1,0 +1,5 @@
+✅ API calls, utilities for backend interactions
+
+Can use Axios or Fetch.
+
+Split by feature/domain or use one api.ts.

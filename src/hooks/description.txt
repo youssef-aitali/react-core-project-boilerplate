@@ -1,0 +1,5 @@
+✅ Reusable custom hooks
+
+Place general-purpose hooks that are used across features.
+
+Don’t include feature-specific hooks here.

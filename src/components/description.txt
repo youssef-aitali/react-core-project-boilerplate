@@ -1,0 +1,5 @@
+✅ Reusable UI components (stateless or stateful)
+
+Use this for generic UI components like buttons, modals, inputs, dropdowns, etc.
+
+These components should not be aware of app-specific business logic.

@@ -1,0 +1,5 @@
+✅ Reusable layout components
+
+Used to wrap pages (e.g., MainLayout, AuthLayout).
+
+Can include header, sidebar, footer, etc.

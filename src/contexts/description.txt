@@ -1,0 +1,3 @@
+ Global contexts that don’t belong to one specific feature
+
+Useful for themes, user preferences, language settings, etc.

@@ -1,0 +1,3 @@
+✅ Routing configuration
+
+Centralized place for React Router setup.

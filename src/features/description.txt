@@ -1,0 +1,3 @@
+Each feature folder includes components, context (if any), hooks, and reducers related to that specific feature.
+
+Keeps code modular and organized.

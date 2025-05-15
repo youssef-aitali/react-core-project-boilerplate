@@ -1,0 +1,5 @@
+✅ Top-level route components
+
+These map directly to routes defined in React Router.
+
+Usually composed of components from features/.
